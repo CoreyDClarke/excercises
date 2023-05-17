@@ -42,6 +42,28 @@ header img {
 	float: left;
 	padding: 0 30px;
 }
+
+#nav_menu ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#nav_menu ul li{
+	float:left;
+	width:20%;
+}
+
+#nav_menu ul li a{
+	text-align: center;
+	display:block;
+	padding: 1em 0;
+	text-decoration: none;
+	background-color: #800000;
+	border: 3px solid #800000;
+	color: #ffffff;
+}
+
 .shadow {
 	text-shadow: 2px 2px 2px #800000;
 }
